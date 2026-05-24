@@ -1,0 +1,14 @@
+
+.env
+.env.local
+.env.*.local
+.env.example
+
+bin/
+server
+
+# Go
+*.exe
+*.test
+*.out
+vendor/
